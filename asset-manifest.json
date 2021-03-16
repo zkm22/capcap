@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a2f5205.chunk.css",
+    "main.js": "/static/js/main.8d1afd71.chunk.js",
+    "main.js.map": "/static/js/main.8d1afd71.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c7e6caf2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c7e6caf2.js.map",
+    "static/js/2.6d418b82.chunk.js": "/static/js/2.6d418b82.chunk.js",
+    "static/js/2.6d418b82.chunk.js.map": "/static/js/2.6d418b82.chunk.js.map",
+    "static/js/3.bcc11515.chunk.js": "/static/js/3.bcc11515.chunk.js",
+    "static/js/3.bcc11515.chunk.js.map": "/static/js/3.bcc11515.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9a2f5205.chunk.css.map": "/static/css/main.9a2f5205.chunk.css.map",
+    "static/js/2.6d418b82.chunk.js.LICENSE.txt": "/static/js/2.6d418b82.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/SourceHanSansCN-Normal.ba2d6a5b.ttf",
+    "static/media/FindWork.scss": "/static/media/war.e7d298ea.jpg",
+    "static/media/Interview.scss": "/static/media/fan.61837a51.jpg",
+    "static/media/office.2d77ae5c.jpg": "/static/media/office.2d77ae5c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7e6caf2.js",
+    "static/js/2.6d418b82.chunk.js",
+    "static/css/main.9a2f5205.chunk.css",
+    "static/js/main.8d1afd71.chunk.js"
+  ]
+}

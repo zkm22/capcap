@@ -1,0 +1,14 @@
+<svg version="1.1"
+  baseProfile="full"
+  xmlns="http://www.w3.org/2000/svg"
+  width="50px"
+  height="75px"
+  viewBox="0 0 100 100"
+  preserveAspectRatio="xMinYMin meet">
+    <circle cx="50" cy="50" r="50" fill="hotpink" stroke="red" />
+    <circle cx="50" cy="50" r="35" fill="transparent" stroke="gray" />
+    <rect x="10" y="36" rx="4" ry="4" width="80" height="20" fill="hotpink" transform="rotate(30 10, 50)" />
+    <rect x="10" y="46" rx="4" ry="4" width="80" height="20" fill="hotpink" transform="rotate(-30 10, 50)" />
+    <rect x="20" y="46" rx="4" ry="4" width="60" height="8" fill="white" transform="rotate(30 20, 50)" />
+    <rect x="20" y="48" rx="4" ry="4" width="60" height="8" fill="white" transform="rotate(-30 20, 50)" />
+</svg>
